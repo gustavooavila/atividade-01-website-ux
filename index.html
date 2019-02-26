@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cadastro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <form action="submit.html">
+            <h1>Pré-cadastro</h1>
+            <input type="text" name="nome" id="nome" placeholder="Nome">
+            <input type="text" name="cep" id="cep" placeholder="CEP">
+            <input type="text" name="email" id="email" placeholder="E-mail">
+            <label>Receber <i>newsletter</i>:</label>
+            <input type="radio" name="newsletter" id="no" value="0">
+            <label for="no">Não</label>
+            <input type="radio" name="newsletter" id="yes" value="1" checked>
+            <label for="yes">Sim</label>
+            </label>
+            <br>
+            <input type="button" value="Reiniciar" onclick="this.form.reset()">
+            <input type="button" value="OK" onclick="this.form.submit()">
+        </form>
+</body>
+</html>
