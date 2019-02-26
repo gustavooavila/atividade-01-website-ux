@@ -6,7 +6,7 @@ Este _website_ está hospedado em <https://ihc-2019-1.github.io/atividade-01-web
 
 Experimente no _desktop_ e _mobile_. 
 
-Considere mostrá-lo para pessoas que não são da área e observá-las.
+Considere mostrá-lo para pessoas que não são da área e as observe.
 
 Liste suas sugestões de melhorias, subjetivas, nenhum método ou heurísticas consolidadas são necessárias ainda.
 
